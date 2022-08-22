@@ -6,4 +6,4 @@ We trained a Multilayer Perceptron (MLP) on data derived from full coagulation s
 Our model predicts the time evolution of the maximum particle size and density on the large size bin of a two-population grain size distribution.
 The resulting time derivatives can be used to infer time series data via direct numerical integration:
 
-<img src="Graphics/Methods.png" width="200" />
+<img src="https://github.com/ThomasPfeil/2popML/blob/main/Graphics/Method.png" width="1600" />
