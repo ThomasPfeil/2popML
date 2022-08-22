@@ -1,5 +1,5 @@
 # 2popML
-A fast and simple machine learning model for dust coagulation in protoplanetary disks
+A fast and simple machine learning model for two-population dust coagulation in protoplanetary disks
 
 ## The Model
 We trained a Multilayer Perceptron (MLP) on data derived from full coagulation simulations with the code COALA, by [Til Birnstiel](https://github.com/birnstiel). 
