@@ -1,7 +1,13 @@
 # 2popML
 A fast and simple machine learning model for two-population dust coagulation in protoplanetary disks
 
-[![Colab](https://img.shields.io/badge/colab-notebook-yellow)](https://colab.research.google.com/github/ThomasPfeil/2popML/EvaluateModel.ipynb)
+<div align="center">
+
+| **colab** | 
+|---|
+|[![Colab](https://img.shields.io/badge/colab-notebook-yellow)](https://colab.research.google.com/github/ThomasPfeil/2popML/EvaluateModel.ipynb)|
+
+</div>
 
 ## The Model
 We trained a Multilayer Perceptron (MLP) on data derived from full coagulation simulations with the code COALA, by [Til Birnstiel](https://github.com/birnstiel). 
