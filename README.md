@@ -1,6 +1,8 @@
 # 2popML
 A fast and simple machine learning model for two-population dust coagulation in protoplanetary disks
 
+[![Colab](https://img.shields.io/badge/colab-notebook-yellow)](https://colab.research.google.com/github/ThomasPfeil/2popML/EvaluateModel.ipynb)
+
 ## The Model
 We trained a Multilayer Perceptron (MLP) on data derived from full coagulation simulations with the code COALA, by [Til Birnstiel](https://github.com/birnstiel). 
 Our neural network's output are the size distribution parameter's respective time derivatives $\partial_t a_\text{max}$ and $\partial_t \sigma_1$, which are then used as source terms for a standard numerical integration in time.
