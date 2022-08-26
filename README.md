@@ -5,7 +5,7 @@ A fast and simple machine learning model for two-population dust coagulation in 
 
 | **colab** | 
 |---|
-|[![Colab](https://img.shields.io/badge/colab-notebook-yellow)](https://colab.research.google.com/github/ThomasPfeil/2popML/EvaluateModel.ipynb)|
+|[![Colab](https://img.shields.io/badge/colab-notebook-yellow)](https://colab.research.google.com/github/ThomasPfeil/2popML/EvaluateMLModel.ipynb)|
 
 </div>
 
