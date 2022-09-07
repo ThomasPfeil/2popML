@@ -1,7 +1,7 @@
 # 2popML
 ### A fast and simple machine learning model for two-population dust coagulation in protoplanetary disks.
 
-The following link will open a jupyter notebook and run it on Google Colab which allows you to test and evaluate the already trained model. For this, a subset of the test dataset is provided, which can be loaded and processed through the model.
+The following link will open a jupyter notebook (running on Google Colab) which allows you to test and evaluate the already trained model. For this, a subset of the test dataset is provided, which can be loaded and processed through the model.
 GPU support is not required. 
 To learn more about the model and how it is used, see the description below.
 
