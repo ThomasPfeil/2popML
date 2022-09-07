@@ -43,8 +43,10 @@ Our model is set up and trained with PyTorch Lightning. Our MLP consists of 3 hi
 
 ### Model Input:
 Input parameters are: the logarithm of density of large particles $\text{log}\left(\frac{\sigma_1}{\sigma_\text{tot}}\right)$, the logorithm of the maximum particle size $a_\text{max}$, the power law index $p$, the stellar mass $M_\*$, the stellar temperature $T_\*$, the disk gas mass $M_\text{disk}$, the turbulence parameter $\alpha_\text{turb}$, the distance to the central star $R$, the lokal gas temperature $T_\text{gas}$, the local gas column density $\Sigma_\text{gas}$, the dust-to-gas ratio $\epsilon$, the fragmentation size $a_\text{frag}$, the local Keplerian frequency $\Omega_\text{K}$, and the local monodisperse dust growth time scale $t_\text{gr}$
+
 <img src="https://github.com/ThomasPfeil/2popML/blob/main/Graphics/Input.png" width="1600" />
 
 ### Model Output:
 The first model output is the tenth root of the gradient of $a_\text{max}$, multiplied by the sign of the gradient. The second output the tenth root of the gradient of $\sigma_1$, multiplied by the sign of the gradient.
-<img src="https://github.com/ThomasPfeil/2popML/blob/main/Graphics/Output.png" width="300" />
+
+<img src="https://github.com/ThomasPfeil/2popML/blob/main/Graphics/output.png" width="300" />
