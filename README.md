@@ -20,8 +20,10 @@ For a given total dust column density $\sigma_\text{tot}$, and a minimum particl
 
 $$
 \begin{align}
-    a_\text{max}: \quad &\text{The size of the largest particles (truncation size of the power law)} \\ 
-    \sigma_1: \quad &\text{The column density of particles larger than $a_\text{int}=\sqrt{a_\text{max}a_\text{min}}$}
+    a_\text{max}: \quad &\text{The size of the largest particles}\\ 
+                        &\text{(truncation size of the power law)}\\
+    \sigma_1:     \quad &\text{The column density of particles}\\
+                        &\text{larger than $a_\text{int}=\sqrt{a_\text{max}a_\text{min}}$}
 \end{align}
 $$
 
