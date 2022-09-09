@@ -31,6 +31,9 @@ It can be shown that the exponent of the power law size distribution $\sigma(a)\
 where $\sigma_0= \sigma_\text{tot}-\sigma_1$ is the column density of particles smaller than $a_\text{int}$.
 
 In contrast to other approximate models like two-pop-py ([Birnstiel et al., 2012](https://ui.adsabs.harvard.edu/abs/2012A%26A...539A.148B/abstract)), this approach makes it possible to retain information about the overall shape of the size distribution.
+
+<img src="https://github.com/ThomasPfeil/2popML/blob/main/Graphics/Model6500.png" width="1600" />
+
 It is, however, not trivial to find a mathematical description for the time evolution of the power law distribution without making strongly simplifying assumptions. 
 
 Here, we present a machine learning aided two-population model, which predicts the time evolution of the simplified distribution.
