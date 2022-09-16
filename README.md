@@ -1,6 +1,8 @@
 # 2popML
 ### A fast and simple machine learning model for two-population dust coagulation in protoplanetary disks.
 
+The notebook in this repository allows the user to execute our model evaluation method on 50% or the test data set. 
+
 ## The 2pop Approach to Dust Coagulation
 
 We are currently developing an approach in which the dust size distribution is described by a truncated power law, instead of a discretized distribution with hundreds of size bins. Our goal is to make the modeling of dust coagulation on top of large scale hydrodynamic simulations more feasible.
